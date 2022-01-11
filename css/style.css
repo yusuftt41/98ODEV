@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  margin: auto;
+}
+
+.sol-search {
+  background-color: rgb(125, 125, 235);
+  width: 33%;
+  margin: auto;
+  padding: 0px;
+  margin-right: 10px;
+  
+  
+}
+.search {
+  background-color: rgb(219, 219, 219);
+  margin: auto;
+  float: none;
+
+}
+
+.search1 {
+  background-color:rgb(104, 104, 245);
+  width: 33%;
+  
+  }
+
+.box {
+  float: left;
+  margin-top: 20px;
+  height: 150px
+  
+}
+.email {
+  background-color:rgb(96, 96, 245);
+  margin-left: 10px;
+  float: left;
+  width: 350px;
+  
+  
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: -133px; /* altAlan yuksekliginin eksi degeri */
+    height: 133px;
+    clear:both;
+}
